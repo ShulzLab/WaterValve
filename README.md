@@ -6,7 +6,7 @@ Recipe :
   
   ![image](Transistor_pinout.png)
 - For 12V PSU/valve, with the TIP29CG as transistor, a good base resistor value is **4.7K**.
-- A Diode, called in that case a flyback (or flywheel) diod, is present between + and - of the solenoid to eliminate reverse current at the establishment / stops of the switching process, dur to the inductive properties of the solenoid.
+- A Diode, called in that case a flyback (or flywheel) diod, is present between + and - of the solenoid to eliminate reverse current at the establishment / stops of the switching process, due to the inductive properties of the solenoid. (generating a magnetic field that itself opposes the change of current flow in the winding that generated it)
 
 <u>Schematic :</u>
 
