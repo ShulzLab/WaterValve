@@ -3,6 +3,14 @@ Documentation about valve for controlling water rewards for mouses
 
 ## Valve :
 
+The electrovalve used in an SMC 12V. 
+
+![image-20211216103245393](README.assets/image-20211216103245393.png)
+
+The manufacturer reference is ``LVM10R1-6B-1-Q``
+
+It can be found on [RadioSpares](https://fr.rs-online.com/web/) with product code ``196-1161`` (just type it in search field to get to the product directly)
+
 ## Capacitive sensor :
 
 Pinout :
