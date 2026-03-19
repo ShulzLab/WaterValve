@@ -87,5 +87,5 @@ All code files are in the [`code/`](code/) folder.
 
 ## G. Appendices
 
-- Full electronic schematic (you can see the Kitcat version in the [`electronic`](electronic/)) folder.  
+- Full electronic schematic (you can see the Kitcad version in the [`electronic`](electronic/)) folder.  
 ![alt text](image-3.png)
