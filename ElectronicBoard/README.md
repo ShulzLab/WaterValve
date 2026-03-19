@@ -25,6 +25,7 @@ _Photo of the board without components_
 
 _Photo of the board with components_
 ![alt text](README.assets/image-1.png)
+
 ---
 
 ## B. Objectives of the board
