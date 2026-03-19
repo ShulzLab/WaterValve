@@ -22,6 +22,7 @@ G. Appendices
 
 _Photo of the board without components_  
 ![alt text](README.assets/image.png)
+
 _Photo of the board with components_
 ![alt text](README.assets/image-1.png)
 ---
