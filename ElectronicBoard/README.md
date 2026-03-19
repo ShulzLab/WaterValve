@@ -21,9 +21,9 @@ G. Appendices
 ## A. Photos of the LickPort board
 
 _Photo of the board without components_  
-![alt text](image.png)
+![alt text](README.assets/image.png)
 _Photo of the board with components_
-![alt text](image-1.png)
+![alt text](README.assets/image-1.png)
 ---
 
 ## B. Objectives of the board
@@ -38,7 +38,7 @@ This board allows you to:
 ## C. Simplified wiring diagram
 
 - Square connections represent grounds (negative terminals)  
-![alt text](image-2.png)
+![alt text](README.assets/image-2.png)
 - Resistor selection: R1 = 680Ω, R2 = 1.8kΩ (3.3V output to Arduino)  
 
 > Full schematic is available in the appendices
@@ -88,4 +88,4 @@ All code files are in the [`code/`](code/) folder.
 ## G. Appendices
 
 - Full electronic schematic (you can see the Kitcad version in the [`electronic`](electronic/)) folder.  
-![alt text](image-3.png)
+![alt text](README.assets/image-3.png)
