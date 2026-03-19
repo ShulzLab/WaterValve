@@ -21,10 +21,14 @@ G. Appendices
 ## A. Photos of the LickPort board
 
 _Photo of the board without components_  
+
 ![alt text](README.assets/image.png)
 
+
 _Photo of the board with components_
+
 ![alt text](README.assets/image-1.png)
+
 
 ---
 
@@ -77,7 +81,7 @@ STL files are also included in the [`box_design`](box_design/) folder..
 
 ## F. Arduino code examples
 
-All code files are in the [`code/`](code/) folder.
+All code files are in the [`code`](code/) folder.
 
 - **Lick detection → Water valve activation**  
   File: `lickport_main.ino`
