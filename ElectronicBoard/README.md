@@ -1,5 +1,7 @@
 # LickPort - Electronic Board (Lick Detector / Valve)
 
+**Last updated:** February 13, 2026
+
 ## Description
 This folder contains all documentation and example code for the LickPort electronic board, used for lick detection and water valve control.
 
@@ -19,9 +21,9 @@ G. Appendices
 ## A. Photos of the LickPort board
 
 _Photo of the board without components_  
-
+![alt text](image.png)
 _Photo of the board with components_
-
+![alt text](image-1.png)
 ---
 
 ## B. Objectives of the board
@@ -36,6 +38,7 @@ This board allows you to:
 ## C. Simplified wiring diagram
 
 - Square connections represent grounds (negative terminals)  
+![alt text](image-2.png)
 - Resistor selection: R1 = 680Ω, R2 = 1.8kΩ (3.3V output to Arduino)  
 
 > Full schematic is available in the appendices
@@ -66,7 +69,7 @@ The enclosure prevents stress on solder joints and cables. Designed in Tinkercad
 - Box design: [Tinkercad link](https://www.tinkercad.com/things/hbnSuq6Cchr-boite-carte-lickport-v1-avec-accroches/edit?sharecode=Nxq6Zqytl9hEeUHwjgE4FO9mnY3RvXSJX_H6KoXoO60)  
 - Lid design: [Tinkercad link](https://www.tinkercad.com/things/5hVfECfCvXz-couvercle-boite-carte-lickport-v1?sharecode=sEUgVh3V9k8983TuvGKIf2XeCjM6gngVLM33MLh_zIU)  
 
-STL files are also included in this repository.
+STL files are also included in the [`box_design`](box_design/) folder..
 
 ---
 
@@ -84,5 +87,5 @@ All code files are in the [`code/`](code/) folder.
 
 ## G. Appendices
 
-- Full electronic schematic  
-- Additional documents and images
+- Full electronic schematic (you can see the Kitcat version in the)  
+![alt text](image-3.png)
